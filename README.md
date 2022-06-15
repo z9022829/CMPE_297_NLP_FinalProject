@@ -18,7 +18,10 @@ Dataset provided INFO:
 * Application running teh models: Jupyter Notebook and Spyder, both from Anaconda3.
 
 
-
+* SPECIAL SetUps and Running Instructions. 
+ 1) Code is writen assuming the tre main datasets (S08, S09 & S10) are inside the QAanswerFiles folder. 
+         * When oppeing the .zip file right clic and select: Extract to "Extract to QAanswersFiles\" 
+         * Location (Needs to edit thsi part) 
 
 
 
