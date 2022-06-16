@@ -14,7 +14,7 @@ Dataset provided INFO:
 * For each main folder a question_answer_pairs.txt was provided to score or model. 
 * We will be pulling the questions ONLY from those files to generate a questionary dataset. 
 
-* LEanguages used: Python
+* Lenguages used: Python
 * Application running teh models: Jupyter Notebook and Spyder, both from Anaconda3.
 
 
